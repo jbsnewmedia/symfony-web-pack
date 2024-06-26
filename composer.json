@@ -1,5 +1,5 @@
 {
-  "name": "jbs-newmedia/symfony-web-dev-pack",
+  "name": "jbs-newmedia/symfony-web-pack",
   "type": "symfony-pack",
   "license": "MIT",
   "description": "An enhanced web application package built on top of the Symfony default skeleton.",
