@@ -1,4 +1,4 @@
-# jbs-newmedia/symfony-web-pack
+# jbsnewmedia/symfony-web-pack
 
 An enhanced web application package built on top of the Symfony default skeleton.
 
