@@ -6,6 +6,7 @@
   "require": {
     "jbsnewmedia/assetcomposerbundle": "*",
     "php-cs-fixer/shim": "*",
+    "symfony/apache-pack": "*",
     "symfony/asset": "*",
     "symfony/debug-pack": "*",
     "symfony/doctrine-messenger": "*",
