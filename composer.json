@@ -4,7 +4,7 @@
   "license": "MIT",
   "description": "An enhanced web application package built on top of the Symfony default skeleton.",
   "require": {
-    "jbsnewmedia/assetcomposerbundle": "*",
+    "jbsnewmedia/asset-composer-bundle": "*",
     "php-cs-fixer/shim": "*",
     "symfony/apache-pack": "*",
     "symfony/asset": "*",
