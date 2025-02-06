@@ -17,7 +17,7 @@
     "symfony/http-client": "*",
     "symfony/intl": "*",
     "symfony/mailer": "*",
-    "symfony/maker-bundle": "*",
+    "symfony/maker-bundle": "^1.0",
     "symfony/mime": "*",
     "symfony/monolog-bundle": "^3.1",
     "symfony/notifier": "*",
@@ -36,7 +36,7 @@
   "require-dev": {
     "php-cs-fixer/shim": "*",
     "symfony/debug-pack": "*",
-    "symfony/maker-bundle": "*",
+    "symfony/maker-bundle": "^1.0",
     "symfony/profiler-pack": "*",
     "symfony/test-pack": "*"
   },
