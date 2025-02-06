@@ -6,8 +6,6 @@
   "require": {
     "jbsnewmedia/asset-composer-bundle": "*",
     "php-cs-fixer/shim": "*",
-    "phpdocumentor/reflection-docblock": "^5.3",
-    "phpstan/phpdoc-parser": "^1.0",
     "symfony/apache-pack": "*",
     "symfony/asset": "*",
     "symfony/debug-pack": "*",
